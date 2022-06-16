@@ -1,4 +1,4 @@
-# PruebaTecnicaMEETGroup
+# Prueba Tecnica MET Group
 Se desarrollan los ejercicios propuestos en la prueba técnica en JavaScript. 
 
 El ejericio 1 consiste en:
